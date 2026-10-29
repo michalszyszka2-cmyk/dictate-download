@@ -8,7 +8,7 @@ A free Windows dictation tool. Hold a key, talk, let go. The words appear where 
 
 1. Run `dictate-setup.exe`. It installs for your user only, no admin rights needed.
 2. Windows may say "Windows protected your PC" because the app is not code-signed. Click **More info**, then **Run anyway**.
-3. On first start dictate downloads the speech model (about 720 MB). The tray icon shows progress. Dictation turns on when it finishes.
+3. On first start dictate downloads the speech model (about 720 MB). The tray icon shows progress. Dictation turns on when it finishes. The speech model turns your voice into text on your own PC. To have the grammar corrected as well, add an OpenAI or Claude API key in **Settings** (see Clean-up below).
 
 ## Use
 
